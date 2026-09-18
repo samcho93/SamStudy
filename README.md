@@ -1,5 +1,5 @@
-[Python](https://samcho93.github.io/studyPython)
+1. [Python](https://samcho93.github.io/studyPython)
 
-[Java](https://samcho93.github.io/studyJava)
+2. [Java](https://samcho93.github.io/studyJava)
 
-[OpenCV](https://samcho93.github.io/studyOpenCV)
+3. [OpenCV](https://samcho93.github.io/studyOpenCV)
