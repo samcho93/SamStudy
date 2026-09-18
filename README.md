@@ -1,4 +1,4 @@
-Python : <https://samcho93.github.io/studyPython>
+[Python](https://samcho93.github.io/studyPython)
 
 Java : <https://samcho93.github.io/studyJava>
 
